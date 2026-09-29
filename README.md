@@ -1,4 +1,4 @@
-# 💎 PrismForge AI
+#  PrismForge AI : LLM Powered Data Analyst
 
 **Conversational analytics & business intelligence studio.** Upload your data, ask questions in plain English, and get answers backed by inspectable, read-only SQL, interactive charts, and downloadable reports.
 
